@@ -39,8 +39,5 @@ VOICE_ID_CLONADO = "SEU_VOICE_ID_AQUI"
 3. Execute:
 Bash
 python tradutor_pt_en.py
-python tradutor_pt_en.py
-
-### 1. Instale as dependências:
 ```bash
 pip install -r requirements.txt# voice-translator-rt
