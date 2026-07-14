@@ -1,0 +1,6 @@
+speech_recognition
+sounddevice
+soundfile
+numpy
+deep_translator
+requests
