@@ -7,10 +7,10 @@ import numpy as np
 from deep_translator import GoogleTranslator
 
 # ==========================================
-# CONFIGURAÇÕES DA ELEVENLABS
+# CONFIGURAÇÕES DA ELEVENLABS (Configure aqui as suas chaves)
 # ==========================================
-API_KEY_ELEVEN = "sk_147721866072af0cc4521355d5d344b2029911823dd6b418"
-VOICE_ID_CLONADO = "AvkWj6lepPSaHHTHSHHV"
+API_KEY_ELEVEN = "SUA_API_KEY_AQUI"
+VOICE_ID_CLONADO = "SEU_VOICE_ID_AQUI"
 
 # Configurações de áudio do microfone
 SAMPLE_RATE = 16000
