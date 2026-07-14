@@ -24,20 +24,17 @@ Durante o desenvolvimento, precisei contornar alguns problemas clássicos de int
 
 ---
 
-## 🚀 Como testar na sua máquina
+## 🚀 Como configurar e executar o projeto
 
-### 1. Instale as dependências:
+Siga os passos abaixo para testar o tradutor na sua própria máquina:
+
 ```bash
+# 1. Instale as dependências do projeto
 pip install -r requirements.txt
 
-2. Configure suas chaves:
-Abra o arquivo tradutor_pt_en.py e coloque sua API Key da ElevenLabs e o ID da sua voz clonada:
-
-Python
+# 2. Abra o arquivo 'tradutor_pt_en.py' e coloque suas credenciais:
 API_KEY_ELEVEN = "SUA_API_KEY_AQUI"
 VOICE_ID_CLONADO = "SEU_VOICE_ID_AQUI"
-3. Execute:
-Bash
+
+# 3. Execute o script no seu terminal
 python tradutor_pt_en.py
-```bash
-pip install -r requirements.txt# voice-translator-rt
